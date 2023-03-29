@@ -6,6 +6,7 @@ public class User {
         System.out.println("测试Git2");
         System.out.println("hpt-fix 1");
         System.out.println("master test1");
+        System.out.println("hpt-fix test1");
 
     }
 }
