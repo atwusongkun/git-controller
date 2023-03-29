@@ -7,6 +7,7 @@ public class User {
         System.out.println("hpt-fix 1");
         System.out.println("master test1");
         System.out.println("hpt-fix test1");
+        System.out.println("push1");
 
     }
 }
